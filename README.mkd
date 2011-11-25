@@ -11,14 +11,14 @@ Modified: 2011 Nov 25
 Solarized Colorscheme for Geany
 ===============================
 
-Developed by Ethan Schoonover <es@ethanschoonover.com>
-Adapted to Geany by Roland Siegbert <roland.siegbert@kreatium.de>
+* Developed by Ethan Schoonover <es@ethanschoonover.com>
+* Adapted to Geany by Roland Siegbert <roland.siegbert@kreatium.de>
 
 Visit the [Solarized homepage]
 ------------------------------
 
-See the [Solarized homepage] for screenshots,
-details and colorscheme versions for Vim, Mutt, popular terminal emulators and
+See the [Solarized homepage] for screenshots, details and
+colorscheme versions for Vim, Mutt, popular terminal emulators and
 other applications.
 
 Screenshots
@@ -29,11 +29,11 @@ Screenshots
 Downloads
 ---------
 
-If you have come across this colorscheme via the [Vim-only repository] on
-github, or the [vim.org script] page see the link above to the Solarized
-homepage or visit the main [Solarized repository].
+If you have come across this colorscheme via the [Geany-only
+repository] on github see the link above to the Solarized homepage
+or visit the main [Solarized repository].
 
-The [Vim-only repository] is kept in sync with the main [Solarized repository]
+The [Geany-only repository] is kept in sync with the main [Solarized repository]
 and is for installation convenience only (with [Pathogen] or [Vundle], for
 instance).  Issues, bug reports, changelogs are centralized at the main
 [Solarized repository].
