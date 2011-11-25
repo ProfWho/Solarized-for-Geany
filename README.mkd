@@ -33,11 +33,6 @@ If you have come across this colorscheme via the [Geany-only
 repository] on github see the link above to the Solarized homepage
 or visit the main [Solarized repository].
 
-The [Geany-only repository] is kept in sync with the main [Solarized repository]
-and is for installation convenience only (with [Pathogen] or [Vundle], for
-instance).  Issues, bug reports, changelogs are centralized at the main
-[Solarized repository].
-
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
 [Geany-only repository]:  https://github.com/ProfWho/Solarized-for-Geany
